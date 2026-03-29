@@ -2,7 +2,7 @@
 
 <!-- Space Universe Hero - Animated GIF -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhvNzdrYnF4eTZxNDczb3FmcmlrZ244OHl4d3c5cGtidWVhaHg4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZ0bnl2b2d3Mzd6dW16ZHUydWt6amNoNnJ3cHNscnozZnE4ZGhoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" />
 </p>
 
 <!-- Pixel / Retro Typing Name -->
